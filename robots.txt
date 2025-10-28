@@ -1,2 +1,61 @@
+# Robots.txt for enhanced SEO
 User-agent: *
-Disallow:
+Allow: /
+
+# Specific crawling instructions for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Block AI crawlers that don't respect copyright
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+# Sitemaps
+Sitemap: https://online-tools.30tools.com/sitemap.xml
+Sitemap: https://online-tools.30tools.com/feed.xml
+
+# Additional crawling hints
+# Host: https://online-tools.30tools.com
+# Preferred domain: online-tools.30tools.com

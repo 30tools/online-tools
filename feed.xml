@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Tools - 30Tools Updates</title>
+    <description>Latest updates and new tools from the best collection of free online developer tools</description>
+    <link>https://online-tools.30tools.com</link>
+    <atom:link href="https://online-tools.30tools.com/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <pubDate>Mon, 28 Oct 2024 12:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Oct 2024 12:00:00 GMT</lastBuildDate>
+    <generator>30Tools</generator>
+    
+    <item>
+      <title>New Hash Tools Added - SHA-3, BLAKE, and more</title>
+      <description>We've added powerful new cryptographic hash functions including SHA-3, BLAKE2, BLAKE3, and cSHAKE for enhanced security.</description>
+      <link>https://online-tools.30tools.com</link>
+      <guid>https://online-tools.30tools.com/updates/2024-10-28</guid>
+      <pubDate>Mon, 28 Oct 2024 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Enhanced Encryption Tools</title>
+      <description>New AES, DES, Triple DES, and RC4 encryption/decryption tools with multiple modes and key formats.</description>
+      <link>https://online-tools.30tools.com</link>
+      <guid>https://online-tools.30tools.com/updates/2024-10-20</guid>
+      <pubDate>Sun, 20 Oct 2024 12:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
